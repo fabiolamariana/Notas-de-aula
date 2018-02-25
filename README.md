@@ -1,2 +1,2 @@
 # Notas-de-aula
-Notas de Aula do curso de Programação de Computadores em C#
+Notas de Aula da disciplina de Programação de Computadores em C++
